@@ -4,7 +4,7 @@
 </a>
 
 <div align="center">
-<img width="125" height="125" src="icon.png" alt="legado"/>  
+<img width="125" height="125" src="png/icon.png" alt="legado"/>  
   
 haygado / 书虫阅读
 
@@ -64,9 +64,9 @@ haygado / 书虫阅读
 
 
 # Interface-界面 [![](https://img.shields.io/badge/-Interface-F5F5F5.svg)](#Interface-界面-)
-<img src="bookshelf.png" width="270"> <img src="anime.png" width="270">
-<img src="audiobook.png" width="270"> <img src="find.png" width="270">
-<img src="rss.png" width="270"> <img src="main.png" width="270">
+<img src="png/bookshelf.png" width="270">    <img src="png/anime.png" width="270">
+<img src="png/audiobook.png" width="270">    <img src="find.png" width="270">
+<img src="png/rss.png" width="270">    <img src="png/main.png" width="270">
 
 <a href="#readme">
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="#" align="right">
